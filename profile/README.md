@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="images/logo1.png" width="200" alt="QuantumOcean Logo">
+<img src="profile/images/logo1.png" width="200" alt="QuantumOcean Logo">
 <h1>Welcome to QuantumOcean</h1>
 <!-- <p>Building Bridges Over Digital Oceans.</p> -->
 </div>
