@@ -1,7 +1,6 @@
 <div align="center"> 
 <img src="https://github.com/QuantumOcean/.github/blob/main/profile/images/logo1.png?raw=true" width="200" alt="QuantumOcean Logo">
 <h1>Welcome to QuantumOcean</h1>
-<!-- <p>Building Bridges Over Digital Oceans.</p> -->
 </div>
 
 
@@ -15,7 +14,7 @@ We've just started our journey, and we're excited to share our future projects a
 
 ## How to Get Involved
 
-We welcome collaborations and partnerships from individuals, institutions, and organizations who share our passion for quantum exploration. Here's how you can get involved:
+We welcome collaborations and partnerships from individuals, institutions, and organizations who share our passion for software development. Here's how you can get involved:
 
 - **Join Us**: If you have skills or ideas to contribute, please check out our [Contributing Guidelines](https://github.com/QuantumOcean/.github/blob/ff2868c6769f04decff7a476909ca269900d6a4c/profile/CONTRIBUTING.md). We'd love to have you on board!
 
