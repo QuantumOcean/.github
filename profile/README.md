@@ -1,16 +1,17 @@
 <div align="center"> 
 <img src="https://github.com/QuantumOcean/.github/blob/main/profile/images/logo1.png?raw=true" width="200" alt="QuantumOcean Logo">
-<h1>Welcome to QuantumOcean</h1>
+<p style="font-size: 20pt; font-weight:600">Welcome to QuantumOcean</p>
 </div>
 
-
+<!-- <p style="font-size: 18pt; color: #74CEDE"><strong>About Us</strong></p> -->
 ## About Us
 We're a hub for developers to collaborate and bring their ideas to life. Our community connects diverse minds, fosters innovation, and supports the journey from concept to impact. Join us in transforming ideas into reality through coding and collaboration.
 
 ## Projects 
 
-We've just started our journey, and we're excited to share our future projects and plans with you soon! 
+We're excited to announce that we have started development on the following projects:
 
+- **[Seaglass](https://github.com/QuantumOcean/seaglass_ui)**: A CSS library that focuses on implementing glassmorphic design principles. 
 
 ## How to Get Involved
 
