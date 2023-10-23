@@ -1,6 +1,6 @@
 <div align="center"> 
-<img src="https://github.com/QuantumOcean/.github/blob/main/profile/images/QOBanner.png?raw=true" width="200" alt="QuantumOcean Logo">
-<h1>Welcome to QuantumOcean</h1>
+<img src="https://github.com/QuantumOcean/.github/blob/main/profile/images/QOBanner.png?raw=true" alt="QuantumOcean Logo">
+<!-- <h1>Welcome to QuantumOcean</h1> -->
 </div>
 
 <!-- <p style="font-size: 18pt; color: #74CEDE"><strong>About Us</strong></p> -->
