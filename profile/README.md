@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://github.com/QuantumOcean/.github/blob/main/profile/images/logo1.png?raw=true" width="200" alt="QuantumOcean Logo">
+<img src="https://github.com/QuantumOcean/.github/blob/main/profile/images/QOBanner.png?raw=true" width="200" alt="QuantumOcean Logo">
 <h1>Welcome to QuantumOcean</h1>
 </div>
 
