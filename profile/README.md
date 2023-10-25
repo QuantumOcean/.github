@@ -18,5 +18,6 @@ We're excited to announce that we have started development on the following proj
 We welcome collaborations and partnerships from individuals, institutions, and organizations who share our passion for software development. Here's how you can get involved:
 
 - **Join Us**: If you have skills or ideas to contribute, please check out our [Contributing Guidelines](https://github.com/QuantumOcean/.github/blob/ff2868c6769f04decff7a476909ca269900d6a4c/profile/CONTRIBUTING.md). We'd love to have you on board!
+- **Sponsor**: Your support can make a big difference! Consider sponsoring our project on [GitHub Sponsors](https://github.com/sponsors/QuantumOcean). Your sponsorship helps us continue our work and improve our open-source projects. Thank you for your support!
 
 We look forward to exploring the vast, digital ocean with you!
