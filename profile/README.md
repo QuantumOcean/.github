@@ -9,9 +9,10 @@ We're a hub for developers to collaborate and bring their ideas to life. Our com
 
 ## Projects 
 
-We're excited to announce that we have started development on the following projects:
+Projects are paused for the moment. 
+<!-- We're excited to announce that we have started development on the following projects: -->
 
-- **[Seaglass](https://github.com/QuantumOcean/seaglass_ui)**: A CSS library that focuses on implementing glassmorphic design principles. 
+<!-- - **[Seaglass](https://github.com/QuantumOcean/seaglass_ui)**: A CSS library that focuses on implementing glassmorphic design principles.  -->
 
 ## How to Get Involved
 
